@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Nilesha Dhivar
 
-<!--
-**nileshavers/nileshavers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI & Full Stack Developer
 
-Here are some ideas to get you started:
+- 🎓 Final Year B.E. Information Technology Student
+- 🌱 Currently learning Artificial Intelligence, Machine Learning & Full Stack Development
+- 💻 Passionate about Python, React, Node.js and AI
+- 📍 Nashik, Maharashtra, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+- SQL
+
+### Frameworks
+- React
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 📚 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- Cloud Computing
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nileshavers&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshavers&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/nileshavers
+- LinkedIn: https://www.linkedin.com/in/nilesha-dhivar-7971a222b
+
+---
+
+⭐ Thanks for visiting my profile!
